@@ -1,2 +1,2 @@
 # Membuat-kotak-responsive
-belajar bahasa pemrograman
+belajar bahasa pemrograman Web
